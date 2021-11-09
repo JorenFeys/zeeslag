@@ -66,7 +66,7 @@ def position_boat(battleship):
   
   # add to battleship dictionary
   battleship['boat'] = boat
-
+  # iets om te committen
 
 def initialize(grid_dim, boat_length, bombs):
   battleship = configure(grid_dim, boat_length, bombs)
